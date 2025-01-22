@@ -11,8 +11,9 @@ public class L1_Q14_FeetToYards {
         double distanceInMiles = distanceInYards / 1760;
 
 
-        System.out.println("The distance in yards is: %.2f yards\n"+ distanceInYards);
-        System.out.println("The distance in miles is: %.2f miles\n"+ distanceInMiles);
+        System.out.printf("The distance in yards is: %.2f yards\n", distanceInYards);
+
+        System.out.printf("The distance in miles is: %.2f miles\n", distanceInMiles);
     }
 
 }

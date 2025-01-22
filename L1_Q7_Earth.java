@@ -6,7 +6,7 @@ public class L1_Q7_Earth {
                 3);
         double volumeMiles3 = (4.0 / 3.0) * Math.PI * Math.pow(radiusMiles, 3);
 
-        System.out.println("Volume of Earth in km^3: " + volumeKm3);
-        System.out.println("Volume of Earth in miles^3: " + volumeMiles3);
+        System.out.printf("Volume of Earth in km^3: %.3f%n", volumeKm3);
+        System.out.printf("Volume of Earth in miles^3: %.3f", volumeMiles3);
     }
 }

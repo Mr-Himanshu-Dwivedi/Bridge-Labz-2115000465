@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class L2_Q2_IntOperation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println("Enter Numeric value");
 
         System.out.print("Enter value for a: ");
         int a = scanner.nextInt();
