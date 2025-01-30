@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class String_Q1_CountVowels {
+public class StringCountVowels {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();

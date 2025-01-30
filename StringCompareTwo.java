@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class String_Q8_CompareTwo {
+public class StringCompareTwo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String input1 = sc.nextLine();
