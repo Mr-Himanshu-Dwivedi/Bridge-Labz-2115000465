@@ -90,6 +90,13 @@ This repository contains a series of Java assignments covering fundamental and a
 ⭕ instanceof Operator - Checking Object’s Class Type  
 
 ---
+## 📌 *Assignment 10* - 06 Feb, 2025  
+### *Concepts Covered:*  
+⭕ Classes vs. Objects in Java
+⭕ Class Diagram
+⭕ Object Diagrams
+⭕ Sequence Diagrams
+---
 
 This repository serves as a great resource for learning Java fundamentals in a structured manner. 🚀  
 Feel free to explore and practice the assignments!
