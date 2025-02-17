@@ -1,0 +1,4 @@
+# all the reader files are deleted
+# You can make them by running the following code given:- 1)In java: FileGenerator.java , 2)In python:1MB.py, 100MB.py, 500MB.py
+*.txt
+
