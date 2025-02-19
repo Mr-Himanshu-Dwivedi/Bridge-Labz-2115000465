@@ -82,7 +82,7 @@ This repository contains a series of Java assignments covering fundamental and a
 
 ---
 
-## 📌 *Assignment 9* - 04 Feb, 2025  
+## 📌 *Assignment 9* - 03 Feb, 2025  
 ### *Concepts Covered:*  
 ⭕ this Keyword - Referencing Class Elements  
 ⭕ static Keyword - Associating Variables & Methods with Class  
@@ -90,12 +90,90 @@ This repository contains a series of Java assignments covering fundamental and a
 ⭕ instanceof Operator - Checking Object’s Class Type  
 
 ---
-## 📌 *Assignment 10* - 06 Feb, 2025  
+
+## 📌 *Assignment 10* - 04 Feb, 2025  
 ### *Concepts Covered:*  
-⭕ Classes vs. Objects in Java
-⭕ Class Diagram
-⭕ Object Diagrams
-⭕ Sequence Diagrams  
+⭕ Classes vs. Objects in Java  
+⭕ Class Diagram  
+⭕ Object Diagrams  
+⭕ Sequence Diagrams   
+
+---
+
+## 📌 *Assignment 11* - 06 Feb, 2025  
+### *Concepts Covered:*  
+⭕ Inheritance  
+⭕ Single Level Inheritance  
+⭕ Multilevel Inheritance  
+⭕ Hierarchical Inheritance 
+⭕ Key Features of Inheritance  
+⭕ Method Overriding  
+⭕ Constructor Inheritance in Java  
+⭕ Polymorphism and Inheritance
+⭕ Access Modifiers and Inheritance
+
+---
+
+## 📌 *Assignment 12* - 08 Feb, 2025  
+### *Concepts Covered:*  
+⭕ Encapsulation  
+⭕ Polymorphism  
+⭕ Interface  
+⭕ Abstract Classes 
+
+---
+
+## 📌 *Assignment 13* - 10 Feb, 2025  
+### *Concepts Covered:*  
+⭕ Single Linked List  
+⭕ Double Linked List  
+⭕ Circular Linked List  
+
+---
+
+## 📌 *Assignment 14* - 12 Feb, 2025  
+### *Concepts Covered:*  
+⭕ Stack  
+⭕ Queue  
+⭕ HashMap and Hashing Function  
+
+---
+
+## 📌 *Assignment 15* - 13 Feb, 2025  
+### *Concepts Covered:*  
+⭕ Bubble Sort  
+⭕ Insertion Sort  
+⭕ Merge Sort  
+⭕ Quick Sort 
+
+---
+
+## 📌 *Assignment 16* - 14 Feb, 2025  
+### *Concepts Covered:*  
+⭕ StringBuilder  
+⭕ StringBuffer  
+⭕ FileReader
+⭕ InputStreamReader 
+⭕ Linear Search  
+⭕ Binary Search  
+
+---
+
+## 📌 *Assignment 17* - 15 Feb, 2025  
+### *Concepts Covered:*  
+⭕ General Algorithm Best Practices  
+⭕ Time and space Complexity Optimization  
+
+---
+
+## 📌 *Assignment 18* - 17 Feb, 2025  
+### *Concepts Covered:*  
+⭕ Introduction to Generics
+⭕ Type Parameters  
+⭕ Generic Classes
+⭕ Generic Methods 
+⭕ Bounded Type Parameters 
+⭕ Wildcards  
 
 ---
 
