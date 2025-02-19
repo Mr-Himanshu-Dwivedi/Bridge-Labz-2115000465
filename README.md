@@ -95,7 +95,8 @@ This repository contains a series of Java assignments covering fundamental and a
 ⭕ Classes vs. Objects in Java
 ⭕ Class Diagram
 ⭕ Object Diagrams
-⭕ Sequence Diagrams
+⭕ Sequence Diagrams  
+
 ---
 
 This repository serves as a great resource for learning Java fundamentals in a structured manner. 🚀  
