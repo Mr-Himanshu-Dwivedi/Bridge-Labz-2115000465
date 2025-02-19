@@ -105,11 +105,11 @@ This repository contains a series of Java assignments covering fundamental and a
 ⭕ Inheritance  
 ⭕ Single Level Inheritance  
 ⭕ Multilevel Inheritance  
-⭕ Hierarchical Inheritance 
+⭕ Hierarchical Inheritance  
 ⭕ Key Features of Inheritance  
 ⭕ Method Overriding  
 ⭕ Constructor Inheritance in Java  
-⭕ Polymorphism and Inheritance
+⭕ Polymorphism and Inheritance  
 ⭕ Access Modifiers and Inheritance
 
 ---
@@ -152,8 +152,8 @@ This repository contains a series of Java assignments covering fundamental and a
 ### *Concepts Covered:*  
 ⭕ StringBuilder  
 ⭕ StringBuffer  
-⭕ FileReader
-⭕ InputStreamReader 
+⭕ FileReader  
+⭕ InputStreamReader   
 ⭕ Linear Search  
 ⭕ Binary Search  
 
@@ -168,11 +168,11 @@ This repository contains a series of Java assignments covering fundamental and a
 
 ## 📌 *Assignment 18* - 17 Feb, 2025  
 ### *Concepts Covered:*  
-⭕ Introduction to Generics
+⭕ Introduction to Generics  
 ⭕ Type Parameters  
-⭕ Generic Classes
-⭕ Generic Methods 
-⭕ Bounded Type Parameters 
+⭕ Generic Classes  
+⭕ Generic Methods  
+⭕ Bounded Type Parameters  
 ⭕ Wildcards  
 
 ---
