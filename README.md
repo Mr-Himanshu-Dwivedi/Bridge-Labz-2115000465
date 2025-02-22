@@ -177,5 +177,9 @@ This repository contains a series of Java assignments covering fundamental and a
 
 ---
 
+## 📌 *Assignment 18* - 19 Feb, 2025  
+### *Concepts Covered:*  
+---
+
 This repository serves as a great resource for learning Java fundamentals in a structured manner. 🚀  
 Feel free to explore and practice the assignments!
