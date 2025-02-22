@@ -1,5 +1,5 @@
 //BankAccount.java
-package com.lcwd.test.bank;
+package JUnit;
 
 public class BankAccount {
     private double balance;

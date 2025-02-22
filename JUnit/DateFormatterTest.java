@@ -1,5 +1,5 @@
 //DateFormatterTest.java
-package com.lcwd.test.utils;
+package JUnit;
 
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
@@ -16,7 +16,7 @@ public class DateFormatterTest {
     @Test
     public void testInvalidDateFormatting() {
         assertThrows(ParseException.class, () -> DateFormatter.formatDate("2023/12/25"));
-        assertThrows(ParseException.class, () -> DateFormatter.formatDate("25-12-2023"));
+        assertThrows(ParseException.class, () -> DateFormatter.formatDate("25/12/2023"));
         assertThrows(ParseException.class, () -> DateFormatter.formatDate("invalid-date"));
     }
 }

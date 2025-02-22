@@ -1,5 +1,5 @@
 //PasswordValidator.java
-package com.lcwd.test.security;
+package JUnit;
 
 public class PasswordValidator {
 

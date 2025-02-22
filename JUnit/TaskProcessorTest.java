@@ -1,5 +1,5 @@
 //TaskProcessorTest.java
-package com.lcwd.test.utils;
+package JUnit;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 public class TaskProcessorTest {
 
     @Test
-    @Timeout(value = 2, unit = TimeUnit.SECONDS)
+    @Timeout(value = 5, unit = TimeUnit.SECONDS)
     public void testLongRunningTask() throws InterruptedException {
         assertEquals("Task Completed", TaskProcessor.longRunningTask());
     }

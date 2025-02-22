@@ -1,5 +1,5 @@
 //DateFormatter.java
-package com.lcwd.test.utils;
+package JUnit;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

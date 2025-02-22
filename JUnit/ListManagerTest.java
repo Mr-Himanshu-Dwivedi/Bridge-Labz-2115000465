@@ -1,5 +1,5 @@
 // ListManagerTest.java
-package com.lcwd.test.utils;
+package JUnit;
 
 import org.junit.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.lcwd.test.services;
+package JUnit;
 
 import org.junit.*;
 import java.util.Date;

@@ -1,5 +1,5 @@
 //TemperatureConverter.java
-package com.lcwd.test.utils;
+package JUnit;
 
 public class TemperatureConverter {
 

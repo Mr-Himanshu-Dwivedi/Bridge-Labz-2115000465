@@ -1,5 +1,5 @@
 // StringUtilsTest.java
-package com.lcwd.test.utils;
+package JUnit;
 
 import org.junit.*;
 

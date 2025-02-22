@@ -1,5 +1,5 @@
 // StringUtils.java
-package com.lcwd.test.utils;
+package JUnit;
 
 public class StringUtils {
     public static String reverse(String str) {

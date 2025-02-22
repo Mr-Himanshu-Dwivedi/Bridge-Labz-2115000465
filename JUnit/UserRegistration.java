@@ -1,5 +1,5 @@
 //UserRegistration.java
-package com.lcwd.test.services;
+package JUnit;
 
 import java.util.regex.Pattern;
 

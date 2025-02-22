@@ -1,5 +1,5 @@
-/* ===================== ExceptionHandlerTest.java ===================== */
-package com.lcwd.test.exceptions;
+//ExceptionHandlerTest.java
+package JUnit;
 
 import org.junit.*;
 

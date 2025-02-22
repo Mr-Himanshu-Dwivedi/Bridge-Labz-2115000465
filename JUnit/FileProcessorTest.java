@@ -1,5 +1,5 @@
 //FileProcessorTest.java
-package com.lcwd.test.utils;
+package JUnit;
 
 import org.junit.jupiter.api.*;
 import java.io.File;

@@ -1,5 +1,5 @@
 //DatabaseConnectionTest.java
-package com.lcwd.test.database;
+package JUnit;
 
 import org.junit.jupiter.api.*;
 

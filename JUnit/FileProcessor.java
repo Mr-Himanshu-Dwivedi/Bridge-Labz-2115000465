@@ -1,5 +1,5 @@
 //FileProcessor.java
-package com.lcwd.test.utils;
+package JUnit;
 
 import java.io.*;
 

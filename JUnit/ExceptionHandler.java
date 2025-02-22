@@ -1,5 +1,5 @@
-        // ExceptionHandler.java
-package com.lcwd.test.exceptions;
+// ExceptionHandler.java
+package JUnit;
 
 public class ExceptionHandler {
     public static int divide(int a, int b) {

@@ -1,6 +1,5 @@
-
 // ListManager.java
-package com.lcwd.test.utils;
+package JUnit;
 
 import java.util.List;
 

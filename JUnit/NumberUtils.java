@@ -1,5 +1,5 @@
 //NumberUtils.java
-package com.lcwd.test.utils;
+package JUnit;
 
 public class NumberUtils {
     public static boolean isEven(int number) {

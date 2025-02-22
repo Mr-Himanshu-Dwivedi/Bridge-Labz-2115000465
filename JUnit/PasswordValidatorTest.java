@@ -1,5 +1,5 @@
 //PasswordValidatorTest.java
-package com.lcwd.test.security;
+package JUnit;
 
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;

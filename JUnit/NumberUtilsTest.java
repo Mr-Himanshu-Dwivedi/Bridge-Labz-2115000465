@@ -1,5 +1,5 @@
 //NumberUtilsTest.java
-package com.lcwd.test.utils;
+package JUnit;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;

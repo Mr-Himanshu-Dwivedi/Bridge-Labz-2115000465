@@ -1,5 +1,5 @@
 //DatabaseConnection.java
-package com.lcwd.test.database;
+package JUnit;
 
 public class DatabaseConnection {
     private boolean isConnected;
