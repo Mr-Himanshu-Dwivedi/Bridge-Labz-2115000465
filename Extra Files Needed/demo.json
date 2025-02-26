@@ -1,0 +1,9 @@
+{
+  "ID": 1,
+  "Subject": ["Maths","Physics","Chemistry"],
+  "Grade": "B",
+  "Address": {
+    "first": "Jabalpur",
+    "second": "Mathura"
+  }
+}
